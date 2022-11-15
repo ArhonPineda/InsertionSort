@@ -1,0 +1,3 @@
+1. Extract Insertion_sort to specific destination
+2. Open the extracted folder Insertion_sort
+3. Open InsertionSort.sln to run the program
